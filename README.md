@@ -6,3 +6,5 @@ Here are jupyter notebooks where I show a number of NLP tasks sped up using Goog
 **Notebooks Added**
 * Language Modeling (DistilGPT Finetuning, WikiText-2)
 * Text Classification (DistilBERT Finetuning, Kaggle Toxic Comments Challenge)
+
+All notebooks are runnable on Google Colab TPU Notebooks unless specified.
